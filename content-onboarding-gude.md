@@ -79,5 +79,5 @@ left navigation bar and overview page as displayed below.
 <p align="center"><img src="/assets/img/page-creation-documentation.png" width="70%" height="70%" alt="Fig 10: "/></p>
 <p align="center">Fig 10: </p>
 
-We are now ready to get started with publishing! Head over to <https://github.com/govtechsg/developer.gov.sg>. At this point, you should have received an email invitation
+We are now ready to get started with publishing! Head over to <https://github.com/govtechsg/developer.gov.sg>{:target="_blank"}. At this point, you should have received an email invitation
 to the repository, allowing write access. You should also have been told which collection and sub-collection will the documentation be classified into.
