@@ -57,3 +57,10 @@ Step 7: Once completed, you will see a banner showing 'Two-factor authentication
 
 <p align="center"><img src="/assets/img/2fa-step-7.png" width="70%" height="70%" alt="Fig 7: "/></p>
 <p align="center">Fig 7: </p>
+
+### Page Creation
+
+Before we get started on the publishing flow, let us define certain components of the Dev Portal.
+
+- Collection: The top-level grouping of all documentations. There currently exists 4 main categories, namely **Guidelines**, **Technologies**, 
+**Singapore Government Tech Stack** and **Communities**.
