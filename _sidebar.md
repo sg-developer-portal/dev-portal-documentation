@@ -1,5 +1,5 @@
 * [Overview](/)
-* [Get started](get-started)
+* [Content onboarding guide](content-onboarding-guide)
 * Advanced features
   * [Diagrams with Mermaid](advanced/mermaid)
   * [Publishing settings](advanced/publishing-settings)
