@@ -79,5 +79,8 @@ left navigation bar and overview page as displayed below.
 <p align="center"><img src="/assets/img/page-creation-documentation.png" width="70%" height="70%" alt="Fig 10: "/></p>
 <p align="center">Fig 10: </p>
 
-We are now ready to get started with publishing! Head over to <https://github.com/govtechsg/developer.gov.sg>{:target="_blank"}. At this point, you should have received an email invitation
-to the repository, allowing write access. You should also have been told which collection and sub-collection will the documentation be classified into.
+We are now ready to get started with publishing! Head over to <https://github.com/govtechsg/developer.gov.sg>{:target="_blank"}. At this point, you should have received an email invitation to the repository, allowing write access. You should also have been told which collection and sub-collection will the documentation be classified into.
+
+### Hands-on
+
+In this walkthough, we will be attempting to create a documentation named First Documentation as an example, which is located in the collection Technologies and sub-collection Analytics.
