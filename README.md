@@ -8,6 +8,18 @@ Should you have any queries about publishing on the portal or in need of any hel
 <p align="center"><img src="/assets/img/content-publishing-process.png" width="79%" height="70%" alt="Fig 1: Content Publishing Process" /></p>
 <p align="center">Fig 1: Content Publishing Process</p>
 
+### Content Approver
+
+- candyyap-gvt
+- HazelKoh12
+
+### Naming Convention
+
+- **File name:** product-name.md (e.g. dev-portal.md)
+- **Image file name:** productname-alias.png (e.g. dev-portal-dashboard.png)
+
 ### Dos
 
 ### Don'ts
+
+
