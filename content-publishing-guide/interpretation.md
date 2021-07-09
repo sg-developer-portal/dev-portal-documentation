@@ -7,7 +7,7 @@ Before we get started on the publishing flow, let us define certain components o
 The top-level grouping of all documentations. There currently exists 4 main categories, namely Guidelines, Technologies, 
 Singapore Government Tech Stack and Communities.
 
-<p align="center"><img src="/assets/img/page-creation-collection.png" width="70%" height="70%" alt="Fig 1: What is 'Collection'"/></p>
+![Fig 1: What is 'Collection'](/assets/img/page-creation-collection.png)
 <p align="center">Fig 1: What is 'Collection'</p><br />
 
 ### Sub-collection
