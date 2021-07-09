@@ -20,36 +20,36 @@ Upon successful signup, you should receive a Welcome email in the email address 
 
 Step 1: Click on your profile picture on the top right hand corner of the page, select "Settings" and await redirection.
 
-<p align="center"><img src="../assets/img/2fa-step-1.png" width="70%" height="70%" alt="Fig 1: Setting up 2FA "/></p>
+![Fig 1: Setting up 2FA](/assets/img/2fa-step-1.png)
 <p align="center">Fig 1: Setting up 2FA</p><br />
 
 Step 2: Select the 'Account security' in the left navigation bar.
 
-<p align="center"><img src="/assets/img/2fa-step-2.png" width="70%" height="70%" alt="Fig 2: Accessing 'Account security' configuration page"/></p>
+![Fig 2: Accessing 'Account security' configuration page](/assets/img/2fa-step-2.png)
 <p align="center">Fig 2: Accessing 'Account security' configuration page</p><br />
 
 Step 3: Click on 'Enable two-factor authentication' to proceed.
 
-<p align="center"><img src="../assets/img/2fa-step-3.png" width="70%" height="70%" alt="Fig 3: Enabling two-factor authentication"/></p>
+![Fig 3: Enabling two-factor authentication](/assets/img/2fa-step-3.png)
 <p align="center">Fig 3: Enabling two-factor authentication</p><br />
 
 Step 4: Select the desired 2FA authentication method. There is the option to choose either the use of a third-party application (Google Authenticator, Authy, LastPass, etc.)
 or via and SMS message.
 
-<p align="center"><img src="../assets/img/2fa-step-4.png" width="70%" height="70%" alt="Fig 4: Setting 2FA authentication method"/></p>
+![Fig 4: Setting 2FA authentication method](/assets/img/2fa-step-4.png)
 <p align="center">Fig 4: Setting 2FA authentication method</p><br />
 
 Step 5: Scan the QR code using the preferred 2FA authentication method to obtain the six-digit code.
 
-<p align="center"><img src="../assets/img/2fa-step-5.png" width="70%" height="70%" alt="Fig 5: Getting the six-digit code"/></p>
+![Fig 5: Getting the six-digit code](/assets/img/2fa-step-5.png)
 <p align="center">Fig 5: Getting the six-digit code</p><br />
 
 Step 6: Save the recovery codes in this step, which guaranteed the owner of the account in the event 2FA fails. It is strongly encouraged to store these codes securely.
 
-<p align="center"><img src="../assets/img/2fa-step-6.png" width="70%" height="70%" alt="Fig 6: Saving the recovery codes"/></p>
+![Fig 6: Saving the recovery codes](/assets/img/2fa-step-6.png)
 <p align="center">Fig 6: Saving the recovery codes</p><br />
 
 Step 7: Once completed, you will see a banner showing 'Two-factor authentication activated'.
 
-<p align="center"><img src="../assets/img/2fa-step-7.png" width="70%" height="70%" alt="Fig 7: Setting up 2FA successfully"/></p>
+![Fig 7: Setting up 2FA successfully](/assets/img/2fa-step-7.png)
 <p align="center">Fig 7: Setting up 2FA successfully </p>
