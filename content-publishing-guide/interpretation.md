@@ -14,7 +14,7 @@ Singapore Government Tech Stack and Communities.
 
 In every collection, there are multiple sub-collections. These sub-collections act as groups for specific content.
 
-<p align="center"><img src="../assets/img/page-creation-sub-collection.png" width="70%" height="70%" alt="Fig 2: What is 'Sub-collection'"/></p>
+![Fig 2: What is 'Sub-collection'](../assets/img/page-creation-sub-collection.png)
 <p align="center">Fig 2: What is 'Sub-collection'</p><br />
 
 ### Documentation
