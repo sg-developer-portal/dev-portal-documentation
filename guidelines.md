@@ -9,7 +9,6 @@ Should you have any queries about publishing on the portal or in need of any hel
 
 ### Content Publishing Process
 
-<p align="center"><img src="assets/img/content-publishing-process.png" width="70%" height="70%" alt="Fig 1: Content Publishing Process" /></p>
 ![Fig 1: Content Publishing Process](assets/img/content-publishing-process.png)
 <p align="center">Fig 1: Content Publishing Process</p>
 
