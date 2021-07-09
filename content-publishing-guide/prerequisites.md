@@ -7,7 +7,9 @@ just drop us an email with you current account name so that we will grant the wr
 
 Head to [https://github.com/join](https://github.com/join ':target=_blank'), and sign up for an account using your preferred email address and professional username.
 
-![Fig 1: GitHub Account Setup](/assets/github-account-setup.gif)
+<div style="text-align:center">
+   <img src="/assets/github-account-setup.gif"/>
+</div>
 <p align="center">Fig 1: GitHub Account Setup</p><br />
   
 Upon successful signup, you should receive a Welcome email in the email address provided.
