@@ -7,14 +7,14 @@ Before we get started on the publishing flow, let us define certain components o
 The top-level grouping of all documentations. There currently exists 4 main categories, namely Guidelines, Technologies, 
 Singapore Government Tech Stack and Communities.
 
-<p align="center"><img src="/assets/img/page-creation-collection.png" width="70%" height="70%" alt="Fig 1: What is 'Collection'"/></p>
+<p align="center"><img src="./assets/img/page-creation-collection.png" width="70%" height="70%" alt="Fig 1: What is 'Collection'"/></p>
 <p align="center">Fig 1: What is 'Collection'</p><br />
 
 ### Sub-collection
 
 In every collection, there are multiple sub-collections. These sub-collections act as groups for specific content.
 
-<p align="center"><img src="/assets/img/page-creation-sub-collection.png" width="70%" height="70%" alt="Fig 2: What is 'Sub-collection'"/></p>
+<p align="center"><img src="./assets/img/page-creation-sub-collection.png" width="70%" height="70%" alt="Fig 2: What is 'Sub-collection'"/></p>
 <p align="center">Fig 2: What is 'Sub-collection'</p><br />
 
 ### Documentation
@@ -22,7 +22,7 @@ In every collection, there are multiple sub-collections. These sub-collections a
 In every sub-collection, there are multiple documentations published by stakeholders. These documentation will be accessible by clicking on links in
 left navigation bar and overview page as displayed below.
 
-<p align="center"><img src="/assets/img/page-creation-documentation.png" width="70%" height="70%" alt="Fig 3: What is 'Documentation'"/></p>
+<p align="center"><img src="./assets/img/page-creation-documentation.png" width="70%" height="70%" alt="Fig 3: What is 'Documentation'"/></p>
 <p align="center">Fig 3: What is 'Documentation'</p><br />
 
 We are now ready to get started with publishing! Head over to <https://github.com/govtechsg/developer.gov.sg>{:target="_blank"}. At this point, you should have received an 
