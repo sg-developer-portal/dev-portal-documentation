@@ -1,6 +1,6 @@
 ### Overview
 
-*need Hazel's help to beef up this page :p*
+***need Hazel's help to beef up this page :p***
 
 This guide provides an overview of how to use GitHub to upload new pages and contents/ update old ones onto the Singapore Government Developer Portal (Dev Portal).
 It also provides the content writing guide and template to help content writer prepare the content to be published in Dev Portal.
