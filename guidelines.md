@@ -19,14 +19,19 @@ Should you have any queries about publishing on the portal or in need of any hel
 - candyyap-gvt
 - HazelKoh12
 
-### Naming Convention
-
-- **File name:** product-name.md (e.g. dev-portal.md)
-- **Image file name:** productname-alias.png (e.g. dev-portal-dashboard.png)
-
 ### Dos
 
+- Each md file must have a *'title'*,which is your product name, follow by your product tagline (e.g. product name - product tagline).
+- A metadescription is required for each md file. This will be a description of your product (not more than 160 characters) which will be published in the overview page before readers click into your product page.
+- All pictures must be referenced with caption *'Fig \<number\>: \<picture caption\>'*.
+- All pictures must be accompanied by *'alternative text (Alt Text)'*. Alt Text shall be the same as the caption used for the picture, including *'Fig \<number\>:'*.
+- 
 
 ### Don'ts
 
+-
 
+### Naming Convention
+
+- **File name:** product-name.md (e.g. dev-portal.md, lifesg.md)
+- **Image file name:** productname-alias.png (e.g. dev-portal-dashboard.png, lifesg-dashboard.png)
