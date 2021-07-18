@@ -37,7 +37,7 @@ Step 6: In the documentation, you will have to include both front matter and con
 
 The title is essentially your product name, follow by your product tagline (e.g. product name - product tagline). The category is the sub-collection that is tagged to your
 product and the description should include a summary of your product (not more than 160 characters) as this will give readers an overview of your product on the overview
-page before readers click into your main page.
+page before readers click into your product page.
 
 "---"<br />
 "title: My First Documentation"<br />
