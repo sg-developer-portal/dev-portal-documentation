@@ -1,6 +1,6 @@
 ### Overview
 
-In this walkthough, we will be attempting to create a documentation named My First Documentation as an example, which is located in the collection **Technologies** and 
+In this walkthough, we will be attempting to publish a documentation named My First Documentation as an example, which is located in the collection **Technologies** and 
 sub-collection **Analytics**.
 
 ![Fig 1: Master code view in GitHub](../assets/img/page-creation.png)
