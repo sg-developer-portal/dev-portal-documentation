@@ -10,9 +10,9 @@ Singapore Government Tech Stack and Communities.
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-collection.png" width="80%" height="80%" 
-    alt="Fig 1: What is 'Collection'"
+    alt="Fig 1: Collection view"
   />
-  <figcaption>Fig 1: What is 'Collection'</figcaption>
+  <figcaption>Fig 1: Collection view</figcaption>
 </figure>
 
 ### Sub-collection
@@ -22,9 +22,9 @@ In every collection, there are multiple sub-collections. These sub-collections a
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-sub-collection.png" width="80%" height="80%" 
-    alt="Fig 2: What is 'Sub-collection'"
+    alt="Fig 2: Sub-collection view"
   />
-  <figcaption>Fig 2: What is 'Sub-collection'</figcaption>
+  <figcaption>Fig 2: Sub-collection view</figcaption>
 </figure>
 
 ### Documentation
@@ -35,9 +35,9 @@ left navigation bar and overview page as displayed below.
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-documentation.png" width="80%" height="80%" 
-    alt="Fig 3: What is 'Documentation'"
+    alt="Fig 3: Accessing the documentation"
   />
-  <figcaption>Fig 3: What is 'Documentation'</figcaption>
+  <figcaption>Fig 3: Accessing the documentation</figcaption>
 </figure>
 
 We are now ready to get started with publishing!
