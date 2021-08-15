@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 GitHub will be the main interface you will need to interact with, in order to publish your article. Please register for a GitHub account if you 
 do not already have one. Listed below are the steps to register for one. Once you register the GitHub account, you can directly email us at
@@ -17,7 +17,7 @@ Head to [https://github.com/join](https://github.com/join ':target=_blank'), and
 
 Upon successful signup, you should receive a Welcome email in the email address provided.
 
-### GitHub 2FA Setup
+## GitHub 2FA Setup
 
 2-Factor Authentication (2FA) helps to ensure you GitHub account remains secure to attacks. Dev Portal requires users to have 2FA enabled for their accounts.  
 
