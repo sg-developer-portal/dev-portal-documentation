@@ -7,14 +7,19 @@ Should you have any queries about publishing on the portal or in need of any hel
 
 ### Content Publishing Process
 
-![Fig 1: Content Publishing Process](assets/img/content-publishing-process.png)
-<p align="center">Fig 1: Content Publishing Process</p>
+<figure style="text-align: center">
+  <img
+    src="assets/img/content-publishing-process" width="80%" height="80%" 
+    alt="Fig 1: Content Publishing Process"
+  />
+  <figcaption>Fig 1: Content Publishing Process</figcaption>
+</figure>
 
 ### Content Reviewer
 
 If you do not have a reviewer within you team, you can request a review from Candy (candyyap-gvt) or Hazel (HazelKoh12) to review the new or updated content.
 
-After selecting Candy or Hazel as the reviewer in GitHub, send an email to Candy at <candy_yap@tech.gov.sg> or Hazel at <hazel_koh@tech.gov.sg>. Include the following information in the email:
+After selecting Candy or Hazel as the reviewer in GitHub, send an email to Candy at <candy_yap@tech.gov.sg> or Hazel at <hazel_koh@tech.gov.sg>. Include the following information in the email
 
 1. Pull request number;
 2. What are the pages created/updated; and
