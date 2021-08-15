@@ -25,7 +25,7 @@ After selecting Candy or Hazel as the reviewer in GitHub, send an email to them 
 2. What are the pages created/updated; and
 3. What content were created/updated.
 
-The review request will be approved within 3 working days and the team will be notified. Do check the content before submitting the merge request.
+The review request will be approved within 3 working days and the team will be notified. Do check the content before submitting the content publish request.
 
 ### Content Approver
 
