@@ -9,7 +9,7 @@ Singapore Government Tech Stack and Communities.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-collection.png" width="70%" height="70%" 
+    src="assets/img/page-creation-collection.png" width="80%" height="80%" 
     alt="Fig 1: What is 'Collection'"
   />
   <figcaption>Fig 1: What is 'Collection'</figcaption>
@@ -19,16 +19,26 @@ Singapore Government Tech Stack and Communities.
 
 In every collection, there are multiple sub-collections. These sub-collections act as groups for specific content.
 
-![Fig 2: What is 'Sub-collection'](../assets/img/page-creation-sub-collection.png)
-<figcaption>Fig 1: What is 'Collection'</figcaption>
+<figure style="text-align: center">
+  <img
+    src="assets/img/page-creation-sub-collection.png" width="80%" height="80%" 
+    alt="Fig 2: What is 'Sub-collection'"
+  />
+  <figcaption>Fig 2: What is 'Sub-collection'</figcaption>
+</figure>
 
 ### Documentation
 
 In every sub-collection, there are multiple documentations published by stakeholders. These documentation will be accessible by clicking on links in
 left navigation bar and overview page as displayed below.
 
-![Fig 3: What is 'Documentation'](../assets/img/page-creation-documentation.png)
-<p align="center">Fig 3: What is 'Documentation'</p><br />
+<figure style="text-align: center">
+  <img
+    src="assets/img/page-creation-documentation.png" width="80%" height="80%" 
+    alt="Fig 3: What is 'Documentation'"
+  />
+  <figcaption>Fig 3: What is 'Documentation'</figcaption>
+</figure>
 
 We are now ready to get started with publishing!
 
