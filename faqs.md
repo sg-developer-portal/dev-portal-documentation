@@ -1,6 +1,8 @@
-### Overview
+## Overview
 
-This page provides frequently asked questions on publishing content in Singapore Government Developer Portal. If you are not able to find your answers here, you can reach out to Dev Portal team at <gds_developer_portal@tech.gov.sg>. 
+This page provides frequently asked questions on publishing content in Singapore Government Developer Portal. If you are not able to find your answers here, you can reach out to Dev Portal team at <gds_developer_portal@tech.gov.sg>.
+
+## Frequently Asked Questions
 
 **1. What is the naming convention for a new markdown file?**
 
