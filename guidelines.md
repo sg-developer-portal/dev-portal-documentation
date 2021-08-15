@@ -17,7 +17,7 @@ Should you have any queries about publishing on the portal or in need of any hel
 
 ### Content Reviewer
 
-If you do not have a reviewer within you team, you can request a review from Candy (candyyap-gvt) or Hazel (HazelKoh12) to review the new or updated content.
+If you do not have a reviewer within you team, you can send a request to Candy (candyyap-gvt) or Hazel (HazelKoh12) to review the new or updated content.
 
 After selecting Candy or Hazel as the reviewer in GitHub, send an email to Candy at <candy_yap@tech.gov.sg> or Hazel at <hazel_koh@tech.gov.sg>. Include the following information in the email:
 
