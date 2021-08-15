@@ -148,7 +148,7 @@ Step 12: Create a pull request from your branch into master
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-11.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -158,14 +158,11 @@ Step 12: Create a pull request from your branch into master
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-12.png" width="80%" height="80%" 
+    alt="Fig 12: Creating a pull request."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 12: Creating a pull request.</figcaption>
 </figure>
-
-![Fig 12: Creating a pull request](../assets/img/page-creation-step-12.png)
-<p align="center">Fig 12: Creating a pull request</p><br />
 
 Step 13: Head over to the pull request, and click on the check provided by AWS Amplify Console. You will be redirected to a webpage containing a link to the preview site.
 Click on the link and you should see a preview version of the Dev Portal which includes your documentation.
@@ -181,10 +178,6 @@ new preview link will be available.
 </figure><br />
 
 <figure style="text-align: center">
-  <img
-    src="assets/img/page-creation-step-13.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
-  /><br />  
  <img
     src="assets/img/page-creation-step-13-1.png" width="80%" height="80%" 
     alt="Fig 13: Previewing the new documentation."
