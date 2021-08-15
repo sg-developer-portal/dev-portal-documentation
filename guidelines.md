@@ -47,7 +47,7 @@ If the reviewer is not Candy or Hazel, provide the following information in the 
 
 ### FAQs
 
-Before you start creating content, refer to FAQs for more tips on publishing content in Singapore Government Developer Portal.
+Before you start creating content, refer to [FAQs](/faqs) for more tips on publishing content in Singapore Government Developer Portal.
 
 ### Contact Information
 
