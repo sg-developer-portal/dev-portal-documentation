@@ -178,9 +178,13 @@ new preview link will be available.
     src="assets/img/page-creation-step-13.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
-</figure><br>
+</figure><br />
 
 <figure style="text-align: center">
+  <img
+    src="assets/img/page-creation-step-13.png" width="80%" height="80%" 
+    alt="Fig 1: Master code view in GitHub"
+  /><br />  
  <img
     src="assets/img/page-creation-step-13-1.png" width="80%" height="80%" 
     alt="Fig 13: Previewing the new documentation."
