@@ -17,9 +17,6 @@ Head to [https://github.com/join](https://github.com/join ':target=_blank'), and
 
 Upon successful signup, you should receive a Welcome email in the email address provided.
 
-
-
-  
 ### GitHub 2FA Setup
 
 2-Factor Authentication (2FA) helps to ensure you GitHub account remains secure to attacks. Dev Portal requires users to have 2FA enabled in their accounts.  
