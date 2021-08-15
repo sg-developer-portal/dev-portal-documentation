@@ -46,27 +46,21 @@ Step 4: Next, navigate to the designated folder you have been informed of. The d
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-4.png" width="80%" height="80%" 
+    alt="Fig 5: Navigating to designated folder."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 5: Navigating to designated folder.</figcaption>
 </figure>
-
-![Fig 5: Navigating to designated folder](../assets/img/page-creation-step-4.png)
-<p align="center">Fig 5: Navigating to designated folder</p><br />
 
 Step 5: Add a new file, which will contain the documentation. Name your documentation [DOCUMENTATION_NAME].md (e.g. gowhere-suite.md). The file name should be in lower case, and spaces separated by hyphens.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-5.png" width="80%" height="80%" 
+    alt="Fig 6: Creating a new markdown file."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 6: Creating a new markdown file.</figcaption>
 </figure>
-
-![Fig 6: Creating new md file](../assets/img/page-creation-step-5.png)
-<p align="center">Fig 6: Creating new md file</p><br />
 
 Step 6: In the documentation, you will have to include both front matter and content. Here is an example of a front matter, where you have to make changes to the
 **title**, **category** and **description**.
@@ -85,14 +79,11 @@ page before readers click into your product page.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-6.png" width="80%" height="80%" 
+    alt="Fig 7: Markdown file content"
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 7: Markdown file content</figcaption>
 </figure>
-
-![Fig 7: Md file content](../assets/img/page-creation-step-6.png)
-<p align="center">Fig 7: Md file content</p><br />
 
 Step 7: For videos, please ensure videos are upload to Youtube before embedding into your documentation. Use the code below to embed your video.
 
@@ -105,42 +96,33 @@ Step 8: Commit the changes once done, into the branch.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-8.png" width="80%" height="80%" 
+    alt="Fig 8: Committing new md file into the branch."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 8: Committing new md file into the branch.</figcaption>
 </figure>
-
-![Fig 8: Committing new md file into the branch](../assets/img/page-creation-step-8.png)
-<p align="center">Fig 8: Committing new md file into the branch</p><br />
 
 Step 9: You will have to link the documentation to the left navigation bar for easy navigation. Head over to /\_data folder. Locate the collection you were designated
 (in this case, technologies.yml), and open it. This is a YAML configuration file which you will have to edit.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-9.png" width="80%" height="80%" 
+    alt="Fig 9: Content in technologies.yml file."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 9: Content in technologies.yml file.</figcaption>
 </figure>
-
-![Fig 9: Content in technologies.yml](../assets/img/page-creation-step-9.png)
-<p align="center">Fig 9: Content in technologies.yml</p><br />
 
 Step 10: Add in the name of the documentation (e.g. My First Documentation) you are intending to publish. Adding the documentation to the list of items will allow it to
 render a link which displays my-first-documention.md created previously.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-10.png" width="80%" height="80%" 
+    alt="Fig 10: Updating technologies.yml."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 10: Updating technologies.yml.</figcaption>
 </figure>
-
-![Fig 10: Updating technologies.yml](../assets/img/page-creation-step-10.png)
-<p align="center">Fig 10: Updating technologies.yml</p><br />
 
 Step 11: Commit the changes as usual into the branch.
 
@@ -149,12 +131,8 @@ Step 12: Create a pull request from your branch into master
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-step-11.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
-</figure>
-
-![](../assets/img/page-creation-step-11.png)<br />
+</figure><br />
 
 <figure style="text-align: center">
   <img
@@ -173,7 +151,6 @@ new preview link will be available.
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-step-13.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
   />
 </figure><br />
 
