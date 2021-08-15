@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 In this walkthough, we will be attempting to publish a documentation named My First Documentation as an example, which is located in the collection **Technologies** and 
 sub-collection **Analytics**.
