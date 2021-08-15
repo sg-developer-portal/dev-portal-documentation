@@ -1,8 +1,8 @@
-### Overview
+## Overview
 
 Before we get started on the publishing flow, let us define certain components of the Dev Portal.
 
-### Collection
+## Collection
 
 The top-level grouping of all documentations. There currently exists 4 main categories, namely Guidelines, Technologies, 
 Singapore Government Tech Stack and Communities.
@@ -15,7 +15,7 @@ Singapore Government Tech Stack and Communities.
   <figcaption>Fig 1: Collection view</figcaption>
 </figure>
 
-### Sub-collection
+## Sub-collection
 
 In every collection, there are multiple sub-collections. These sub-collections act as groups for specific content.
 
@@ -27,7 +27,7 @@ In every collection, there are multiple sub-collections. These sub-collections a
   <figcaption>Fig 2: Sub-collection view</figcaption>
 </figure>
 
-### Documentation
+## Documentation
 
 In every sub-collection, there are multiple documentations published by stakeholders. These documentation will be accessible by clicking on links in
 left navigation bar and overview page as displayed below.
