@@ -16,9 +16,9 @@ Step 1: Create a new branch to work on. This branch will contain all the work yo
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-step-1.png" width="80%" height="80%" 
-    alt="Fig 2: Creating a new branch"
+    alt="Fig 2: Creating a new branch."
   />
-  <figcaption>Fig 2: Creating a new branch</figcaption>
+  <figcaption>Fig 2: Creating a new branch.</figcaption>
 </figure>
 
 Step 2: Uploading images to /assets/img/. Navigate to the directory and upload you files. Name the image files in this naming convention: product-name-alise.png 
@@ -27,29 +27,26 @@ Step 2: Uploading images to /assets/img/. Navigate to the directory and upload y
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-step-2.png" width="80%" height="80%" 
-    alt="Fig 3: Uploading images"
+    alt="Fig 3: Uploading images to GitHub."
   />
-  <figcaption>Fig 3: Uploading images</figcaption>
+  <figcaption>Fig 3: Uploading images to GitHub.</figcaption>
 </figure>
 
 Step 3: After uploading the necessary images required for your documentation, commit the change into the branch.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
+    alt="Fig 4: Committing new images into the branch."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 4: Committing new images into the branch.</figcaption>
 </figure>
-
-![Fig 4: Committing new images into the branch](../assets/img/page-creation-step-3.png)
-<p align="center">Fig 4: Committing new images into the branch</p><br />
 
 Step 4: Next, navigate to the designated folder you have been informed of. The directory will be in the format/collections/[COLLECTION_NAME]/[SUB-COLLECTION_NAME]. In this example it would be /collections/\_technologies/analytics.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -62,7 +59,7 @@ Step 5: Add a new file, which will contain the documentation. Name your document
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -88,7 +85,7 @@ page before readers click into your product page.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -108,7 +105,7 @@ Step 8: Commit the changes once done, into the branch.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -122,7 +119,7 @@ Step 9: You will have to link the documentation to the left navigation bar for e
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -136,7 +133,7 @@ render a link which displays my-first-documention.md created previously.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -151,7 +148,7 @@ Step 12: Create a pull request from your branch into master
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -161,7 +158,7 @@ Step 12: Create a pull request from your branch into master
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-3.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
   <figcaption>Fig 1: Master code view in GitHub</figcaption>
@@ -178,50 +175,35 @@ new preview link will be available.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
+    src="assets/img/page-creation-step-13.png" width="80%" height="80%" 
     alt="Fig 1: Master code view in GitHub"
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
-</figure>
-
-![](../assets/img/page-creation-step-13.png)<br />
-
-<figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-13-1.png" width="80%" height="80%" 
+    alt="Fig 13: Previewing the new documentation."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 13: Previewing the new documentation.</figcaption>
 </figure>
-
-![Fig 13: Previewing the new documentation](../assets/img/page-creation-step-13-1.png)
-<p align="center">Fig 13: Previewing the new documentation</p><br />
 
 Step 14: Once you are satisfied with the3 page and ready for it to be published. You can request a review from the content-approver team (candyyap-gvt and HazelKoh12)
 to approve and merge your pull request.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-14.png" width="80%" height="80%" 
+    alt="Fig 14: Requesting for approval."
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 14: Requesting for approval.</figcaption>
 </figure>
-
-![Fig 14: Requesting for approval](../assets/img/page-creation-step-14.png)
-<p align="center">Fig 14: Requesting for approval</p><br />
 
 Step 15: Once the pull request is merged, your changes will go live. Congratulations! You have just published your first documentation successfully.
 
 <figure style="text-align: center">
   <img
-    src="assets/img/page-creation.png" width="80%" height="80%" 
-    alt="Fig 1: Master code view in GitHub"
+    src="assets/img/page-creation-step-15.png" width="80%" height="80%" 
+    alt="Fig 15: Documentation page in Dev Porta"
   />
-  <figcaption>Fig 1: Master code view in GitHub</figcaption>
+  <figcaption>Fig 15: Documentation page in Dev Porta</figcaption>
 </figure>
-
-![Fig 15: Documentation page in Dev Portal](../assets/img/page-creation-step-15.png)
-<p align="center">Fig 15: Documentation page in Dev Portal</p><br />
 
 
