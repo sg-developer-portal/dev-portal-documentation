@@ -21,7 +21,7 @@ Step 1: Create a new branch to work on. This branch will contain all the work yo
   <figcaption>Fig 2: Creating a new branch.</figcaption>
 </figure>
 
-Step 2: Uploading images to /assets/img/. Navigate to the directory and upload you files. Name the image files in this naming convention: product-name-alise.png 
+Step 2: Uploading images to /assets/img/. Navigate to the directory and upload your files. Name the image files in this naming convention: product-name-alise.png 
 (e.g. my-first-documentation-analytics-dashboard.png).
 
 <figure style="text-align: center">
@@ -42,7 +42,7 @@ Step 3: After uploading the necessary images required for your documentation, co
   <figcaption>Fig 4: Committing new images into the branch.</figcaption>
 </figure>
 
-Step 4: Next, navigate to the designated folder you have been informed of. The directory will be in the format/collections/[COLLECTION_NAME]/[SUB-COLLECTION_NAME]. In this example it would be /collections/\_technologies/analytics.
+Step 4: Next, navigate to the designated folder you have been informed of. The directory will be in the format /collections/[COLLECTION_NAME]/[SUB-COLLECTION_NAME]. In this example it would be /collections/\_technologies/analytics.
 
 <figure style="text-align: center">
   <img
@@ -52,7 +52,7 @@ Step 4: Next, navigate to the designated folder you have been informed of. The d
   <figcaption>Fig 5: Navigating to designated folder.</figcaption>
 </figure>
 
-Step 5: Add a new file, which will contain the documentation. Name your documentation [DOCUMENTATION_NAME].md (e.g. gowhere-suite.md). The file name should be in lower case, and spaces separated by hyphens.
+Step 5: Add a new file, which will contain the documentation. Name your documentation [DOCUMENTATION_NAME].md (e.g. gowhere-suite.md). The file name shall be in lower case, and spaces separated by hyphens.
 
 <figure style="text-align: center">
   <img
@@ -85,7 +85,7 @@ page before readers click into your product page.
   <figcaption>Fig 7: Markdown file content</figcaption>
 </figure>
 
-Step 7: For videos, please ensure videos are upload to Youtube before embedding into your documentation. Use the code below to embed your video.
+Step 7: For videos, please ensure videos are upload to Youtube before embedding the video into your documentation. Use the code below to embed your video.
 
 ```
 <iframe src="https://www.youtube.com/embed/<video-id>?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -145,7 +145,7 @@ Step 12: Create a pull request from your branch into master
 Step 13: Head over to the pull request, and click on the check provided by AWS Amplify Console. You will be redirected to a webpage containing a link to the preview site.
 Click on the link and you should see a preview version of the Dev Portal which includes your documentation.
 
-Should you not be satisfied with the content, edit the documentation from Step 6 and commit again once done. The pull requet will be updated automatically and a
+Should you not be satisfied with the content, edit the documentation from Step 6 and commit again once done. The pull request will be updated automatically and a
 new preview link will be available.
 
 <figure style="text-align: center">
@@ -162,8 +162,7 @@ new preview link will be available.
   <figcaption>Fig 13: Previewing the new documentation.</figcaption>
 </figure>
 
-Step 14: Once you are satisfied with the3 page and ready for it to be published. You can request a review from the content-approver team (candyyap-gvt and HazelKoh12)
-to approve and merge your pull request.
+Step 14: Once you are satisfied with the page, you can request a review from your teammates who have access to this GitHub repo or you can request a review from the content-approver team (candyyap-gvt and HazelKoh12) to review the content.
 
 <figure style="text-align: center">
   <img
@@ -173,7 +172,7 @@ to approve and merge your pull request.
   <figcaption>Fig 14: Requesting for approval.</figcaption>
 </figure>
 
-Step 15: Once the pull request is merged, your changes will go live. Congratulations! You have just published your first documentation successfully.
+Step 15: Once the review is approved, send an email to content-approver to publish the content. Once published, your changes will go live. Congratulations! You have just published your first documentation successfully.
 
 <figure style="text-align: center">
   <img
