@@ -9,7 +9,7 @@ Singapore Government Tech Stack and Communities.
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/page-creation-collection" width="70%" height="70%" 
+    src="/assets/img/page-creation-collection.png" width="70%" height="70%" 
     alt="Fig 1: What is 'Collection'"
   />
   <figcaption>Fig 1: What is 'Collection'</figcaption>
