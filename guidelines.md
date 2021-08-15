@@ -40,9 +40,9 @@ If the reviewer is not Candy or Hazel, provide the following information in the 
 ### Dos
 
 1. All content must be in *markdown* format. Special requests will be subjected to Dev Portal team's approval.
-2. Each md file must have a *'title'*,which is your product name, follow by your product tagline (e.g. product name - product tagline).
-3. A metadescription is required for each md file. This will be a description of your product (not more than 160 characters) which will be published in the overview page before readers click into your product page.
-4. Headers size must be *###*.
+2. Each md file must have a *'title'*, which is your product name, follow by your product tagline (e.g. product name - product tagline).
+3. A metadescription is required for each markdown file. This will be a description of your product (not more than 160 characters) which will be published in the overview page before readers click into your product page.
+4. All main headers size must be *###*.
 5. All pictures must be referenced with caption *'Fig \<number\>: \<picture caption\>'*.
 6. All pictures must be accompanied by *'alternative text (Alt Text)'*. Alt Text shall be the same as the caption used for the picture, including *'Fig \<number\>:'*.
 
