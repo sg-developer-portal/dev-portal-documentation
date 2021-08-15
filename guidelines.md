@@ -9,7 +9,7 @@ Should you have any queries about publishing on the portal or in need of any hel
 
 <figure style="text-align: center">
   <img
-    src="assets/img/content-publishing-process.png" width="80%" height="80%" 
+    src="assets/img/content-publishing-process.png" width="90%" height="90%" 
     alt="Fig 1: Content Publishing Process"
   />
   <figcaption>Fig 1: Content Publishing Process</figcaption>
