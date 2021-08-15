@@ -9,7 +9,7 @@ Singapore Government Tech Stack and Communities.
 
 <figure style="text-align: center">
   <img
-    src="../assets/img/page-creation-collection.png" width="70%" height="70%" 
+    src="/assets/img/page-creation-collection.png" width="70%" height="70%" 
     alt="Fig 1: What is 'Collection'"
   />
   <figcaption>Fig 1: What is 'Collection'</figcaption>
@@ -20,7 +20,7 @@ Singapore Government Tech Stack and Communities.
 In every collection, there are multiple sub-collections. These sub-collections act as groups for specific content.
 
 ![Fig 2: What is 'Sub-collection'](../assets/img/page-creation-sub-collection.png)
-<p align="center">Fig 2: What is 'Sub-collection'</p><br />
+<figcaption>Fig 1: What is 'Collection'</figcaption>
 
 ### Documentation
 
