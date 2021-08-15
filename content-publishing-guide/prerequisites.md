@@ -15,6 +15,8 @@ Head to [https://github.com/join](https://github.com/join ':target=_blank'), and
   <figcaption>GitHub Account Setup</figcaption>
 </figure>
 
+Upon successful signup, you should receive a Welcome email in the email address provided.
+
 <figure style="text-align: center">
   <img
     src="assets/img/2fa-step-1.png" width="80%" height="80%" 
