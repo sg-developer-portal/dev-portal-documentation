@@ -10,9 +10,9 @@ Head to [https://github.com/join](https://github.com/join ':target=_blank'), and
 <figure style="text-align: center">
   <img
     src="assets/github-account-setup.gif" width="80%" height="80%" 
-    alt="Fig 1: GitHub Account Setup"
+    alt="GitHub Account Setup"
   />
-  <figcaption>Fig 1: GitHub Account Setup</figcaption>
+  <figcaption>GitHub Account Setup</figcaption>
 </figure>
   
 Upon successful signup, you should receive a Welcome email in the email address provided.
@@ -22,6 +22,14 @@ Upon successful signup, you should receive a Welcome email in the email address 
 2-Factor Authentication (2FA) helps to ensure you GitHub account remains secure to attacks. Dev Portal requires users to have 2FA enabled in their accounts.  
 
 Step 1: Click on your profile picture on the top right hand corner of the page, select "Settings" and await redirection.
+
+<figure style="text-align: center">
+  <img
+    src="assets/img/page-creation-collection.png" width="80%" height="80%" 
+    alt="Fig 1: What is 'Collection'"
+  />
+  <figcaption>Fig 1: What is 'Collection'</figcaption>
+</figure>
 
 ![Fig 1: Setting up 2FA](../assets/img/2fa-step-1.png)
 <p align="center">Fig 1: Setting up 2FA</p><br />
