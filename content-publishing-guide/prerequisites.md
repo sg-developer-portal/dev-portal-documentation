@@ -21,7 +21,7 @@ Upon successful signup, you should receive a Welcome email in the email address 
 
 2-Factor Authentication (2FA) helps to ensure you GitHub account remains secure to attacks. Dev Portal requires users to have 2FA enabled for their accounts.  
 
-Step 1: Click on your profile picture on the top right hand corner of the page, select "Settings" and await redirection.
+Step 1: Click on your profile picture on the top right hand corner of the page, select 'Settings' and await redirection.
 
 <figure style="text-align: center">
   <img
