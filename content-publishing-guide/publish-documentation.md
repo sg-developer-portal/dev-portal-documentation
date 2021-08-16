@@ -97,9 +97,9 @@ Step 8: Commit the changes once done, into the branch.
 <figure style="text-align: center">
   <img
     src="assets/img/page-creation-step-8.png" width="80%" height="80%" 
-    alt="Fig 8: Committing new md file into the branch."
+    alt="Fig 8: Committing new markdown file into the branch."
   />
-  <figcaption>Fig 8: Committing new md file into the branch.</figcaption>
+  <figcaption>Fig 8: Committing new markdown file into the branch.</figcaption>
 </figure>
 
 Step 9: You will have to link the documentation to the left navigation bar for easy navigation. Head over to *'/\_data folder'*. Locate the collection you were designated
