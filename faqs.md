@@ -26,7 +26,7 @@ To bold a text/sentence, add '\*\*' before and after the text/sentence (e.g. **\
 
 **5. How do I set the text/sentent to italics?**
 
-To set the text to italics, add '\*' before and after the text/sentence (e.g. *\*text\**).
+To set the text to italics, add '\*' before and after the text/sentence (e.g. \**text*\*).
 
 
 **6. How do I display special characters?**
