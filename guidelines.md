@@ -48,7 +48,7 @@ If the reviewer is not Candy, provide the following information in the email:
 
 ## Don'ts
 
-1. Do not create additional pages. If additional pages are required, Please submit [this form](https://form.gov.sg/66e7d1b4ae4c3750e0c85ace) and provide the purpose for these additional pages.
+1. Do not create additional pages. If additional pages are required, Please submit [this form](https://form.gov.sg/62280856ba91100012050933?62283f926ccdb30013189388=/) and provide the purpose for these additional pages.
 
 ## FAQs
 
